@@ -7,7 +7,7 @@ This repository contains the presentation slides prepared from a PDF file.
 - original.pdf → Source PDF file
 
 ## Course
-Communication Engineering
+Electronic Communication Sessional
 
 ## Author
-Ahmad Jim
+Md. Isfaq Ahmad Jim
